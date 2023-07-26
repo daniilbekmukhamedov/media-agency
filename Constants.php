@@ -27,7 +27,7 @@ $URLs = [
     "/chat-bot" => ["url" => Views::$chatBot    , "title" => "Разработка Чат-ботов Swift Marketing"]
 ];
 
-$param = "?v=123";
+$param = "?v=124";
 $fbPixel = "808721807646220";
 $fbRedirect = "/web-dev";
 
